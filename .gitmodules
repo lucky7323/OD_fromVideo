@@ -1,0 +1,6 @@
+[submodule "faster_rcnn"]
+	path = faster_rcnn
+	url = https://github.com/lucky7323/faster_rcnn.git
+[submodule "siamese-fc"]
+	path = siamese-fc
+	url = https://github.com/lucky7323/siamese-fc.git
