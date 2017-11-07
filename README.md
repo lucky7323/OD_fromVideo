@@ -3,7 +3,7 @@
 
 object detection from video by using Faster R-CNN and Siamese.
 My object detection algorithm is composed of two networks which are Faster R-CNN and Fully-Convolutional Siamese Networks.
-
+This code has been implemented and tested on Ubuntu 16.04.3 LTS, MATLAB 2015a (with GPU mode: NVIDIA GTX 1070)
 
 I used Faster R-CNN as a still-image detector.
 You can find the original paper and code of Faster R-CNN in the link below.
